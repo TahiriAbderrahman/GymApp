@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190708065484",
+    "project_id": "gymapp-9a8a8",
+    "storage_bucket": "gymapp-9a8a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190708065484:android:9c6bddf6eb1697114a4e69",
+        "android_client_info": {
+          "package_name": "com.hypeteq.fitnessapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw5UkrwfP6JOow-OgNOFbNg4rY6h0DonA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
